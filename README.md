@@ -40,10 +40,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p align="center">
-  ![GitHub Snake Animation](https://github.com/bhlRahul-TD/bhlrahul-TD/blob/output/github-contribution-grid-snake.svg)
-</p>
-
 <p>
   <!-- Dark Mode Stats -->
   <picture>
