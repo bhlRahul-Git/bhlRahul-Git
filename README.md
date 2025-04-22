@@ -1,9 +1,9 @@
-![MasterHead](https://github.com/bhlRahul-TD/bhlrahul-TD/blob/main/Banner.jpg)
+![MasterHead](https://github.com/bhlRahul-Git/bhlrahul-Git/blob/main/Banner.jpg)
 <h1 align="center">Hey there 👋, I'm Rahul B S</h1>
 <h3 align="center">I'm a passionate React Native Developer from India <img alt="India" src="https://cdn.britannica.com/97/1597-004-05816F4E/Flag-India.jpg" style="width: 23px; height: 15px;"> building user friendly mobile applications.</h3>
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhlrahul-td&label=Profile%20views&color=0e75b6&style=flat" alt="bhlrahul-git" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhlrahul-git&label=Profile%20views&color=0e75b6&style=flat" alt="bhlrahul-git" /> </p>
 
 - 🔭 I’m currently working on **Fintech Mobile Application**
 
@@ -43,12 +43,12 @@
   <!-- Dark Mode Stats -->
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bhlrahul-td&show_icons=true&locale=en&layout=compact&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bhlrahul-git&show_icons=true&locale=en&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <!-- Light Mode Stats -->
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=bhlrahul-td&show_icons=true&locale=en&layout=compact&theme=light"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=bhlrahul-git&show_icons=true&locale=en&layout=compact&theme=light"
       alt="Top Langs"
     />
   </picture>
@@ -58,12 +58,12 @@
   <!-- Dark Mode Streak -->
   <picture>
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=bhlrahul-td&theme=dark"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=bhlrahul-git&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <!-- Light Mode Streak -->
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=bhlrahul-td&theme=light"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=bhlrahul-git&theme=light"
       alt="Streak Stats"
     />
   </picture>
