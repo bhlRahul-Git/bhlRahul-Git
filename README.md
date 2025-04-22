@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate React Native Developer from India <img alt="India" src="https://cdn.britannica.com/97/1597-004-05816F4E/Flag-India.jpg" style="width: 23px; height: 15px;"> building user friendly mobile applications.</h3>
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhlrahul-td&label=Profile%20views&color=0e75b6&style=flat" alt="bhlrahul-td" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhlrahul-td&label=Profile%20views&color=0e75b6&style=flat" alt="bhlrahul-git" /> </p>
 
 - 🔭 I’m currently working on **Fintech Mobile Application**
 
